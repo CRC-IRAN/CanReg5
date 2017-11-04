@@ -47,7 +47,7 @@ public class FixedWidthFileWriterTest {
     @Test
     public void testSetOutputFileName() {
         System.out.println("setOutputFileName");
-        String fileName = "C:\\Documents and Settings\\ervikm\\My Documents\\NetBeansProjects\\CanReg\\src\\canreg\\common\\ruby\\export_format_naaccr1946.ver11_3.d02032011.tsv";
+        String fileName = "D:\\GitHub\\CanReg5\\src\\canreg\\common\\ruby\\export_format_naaccr1946.ver11_3.d02032011.tsv";
         FixedWidthFileWriter instance = null;
         try {
             instance = new FixedWidthFileWriter(1946);

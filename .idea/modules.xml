@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CanReg5.iml" filepath="$PROJECT_DIR$/CanReg5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trunk-pcal.iml" filepath="$PROJECT_DIR$/trunk-pcal.iml" />
     </modules>
   </component>
 </project>
