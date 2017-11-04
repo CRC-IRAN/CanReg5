@@ -6,6 +6,7 @@
 package canreg.server.database;
 
 import canreg.client.dataentry.Import;
+import canreg.common.Globals;
 import canreg.server.CanRegServerImpl;
 import canreg.server.CanRegServerInterface;
 import java.io.File;
@@ -52,7 +53,7 @@ public class ImportTest {
     public void importFile() {
         try {
             System.out.println("importFile");
-            CanRegServerInterface server = new CanRegServerImpl("TRN");
+            CanRegServerInterface server = new CanRegServerImpl("TRN", Globals.DEFAULT_PORT);
             Document doc = server.getDatabseDescription();
             System.out.println(QueryGenerator.strSavePatient(doc));
             File file = new File("test/TRN-all.TXT");

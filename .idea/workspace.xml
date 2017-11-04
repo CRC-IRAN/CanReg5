@@ -1,10 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java" line="390" />
+    <bookmark url="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java" line="868" />
+    <bookmark url="file://$PROJECT_DIR$/src/canreg/client/gui/CanRegClientView.java" line="1472" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ba01ca-4167-4b6c-a912-63bc395550ce" name="Default" comment="">
+    <list default="true" readonly="true" id="d34ad2f7-610f-45be-a789-0cf9fc9ddd4c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/BARSHIA.TTF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/BYekan.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/BYekan.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/BYekan.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/arshiya.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/arshiya.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/arshiya.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/back_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/back_arrow_BLACK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/preloader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/NCIDFieldVariableEditorPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/FilterHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/JComponentToPDFHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/LocalizationHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/resources/dictionaries/morphology.tsv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/ruby/export_format_naaccr1946.ver11_3.d02032011.tsv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/common/ruby/naaccr1946.ver11_3.d02032011.dd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/server/database/derby/Functions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/web/TomcatLauncher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/canreg/web/servlet/CanReg5Servlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/brows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/brows.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/arshiya.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery_Migrate_v1.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery_blockUI_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery_ui_v1.10.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/jquery_v2.0.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/move-top.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/responsiveslides.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/less/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/CanReg5-Instructions/44.png" afterPath="$PROJECT_DIR$/doc/CanReg5-Instructions/44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CanReg5-InnoSetup.iss" afterPath="$PROJECT_DIR$/CanReg5-InnoSetup.iss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CanReg5-R-packages-InnoSetup.iss" afterPath="$PROJECT_DIR$/CanReg5-R-packages-InnoSetup.iss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CanReg5-with-R-packages-InnoSetup.iss" afterPath="$PROJECT_DIR$/CanReg5-with-R-packages-InnoSetup.iss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appinfo.properties" afterPath="$PROJECT_DIR$/appinfo.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildnumber.properties" afterPath="$PROJECT_DIR$/buildnumber.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/changelog.txt" afterPath="$PROJECT_DIR$/changelog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/CI5 Editorial Tables.conf" afterPath="$PROJECT_DIR$/conf/tables/CI5 Editorial Tables.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/DataQualityIndicators.conf" afterPath="$PROJECT_DIR$/conf/tables/DataQualityIndicators.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/SEERprep.conf" afterPath="$PROJECT_DIR$/conf/tables/SEERprep.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/SRR.conf" afterPath="$PROJECT_DIR$/conf/tables/SRR.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/TimeTrendsAgeSpecific.conf" afterPath="$PROJECT_DIR$/conf/tables/TimeTrendsAgeSpecific.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/ASR_TopCancers_BarChart.r" afterPath="$PROJECT_DIR$/conf/tables/r/ASR_TopCancers_BarChart.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/CI5EditorialTables.r" afterPath="$PROJECT_DIR$/conf/tables/r/CI5EditorialTables.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/DataQualityIndicators.r" afterPath="$PROJECT_DIR$/conf/tables/r/DataQualityIndicators.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/Funct_graphs.r" afterPath="$PROJECT_DIR$/conf/tables/r/Funct_graphs.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/Funct_misc.r" afterPath="$PROJECT_DIR$/conf/tables/r/Funct_misc.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/PopulationPyramid.r" afterPath="$PROJECT_DIR$/conf/tables/r/PopulationPyramid.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/SRR.r" afterPath="$PROJECT_DIR$/conf/tables/r/SRR.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/StartUp.r" afterPath="$PROJECT_DIR$/conf/tables/r/StartUp.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/TimeTrends.r" afterPath="$PROJECT_DIR$/conf/tables/r/TimeTrends.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/TimeTrendsAgeSpecific.r" afterPath="$PROJECT_DIR$/conf/tables/r/TimeTrendsAgeSpecific.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/callAgeSpecificIncidenceRates.r" afterPath="$PROJECT_DIR$/conf/tables/r/callAgeSpecificIncidenceRates.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/callAgeSpecificIncidenceRatesLog.r" afterPath="$PROJECT_DIR$/conf/tables/r/callAgeSpecificIncidenceRatesLog.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/callAgeSpecificRatesTopX.r" afterPath="$PROJECT_DIR$/conf/tables/r/callAgeSpecificRatesTopX.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/makeSureGgplot2IsInstalled.r" afterPath="$PROJECT_DIR$/conf/tables/r/makeSureGgplot2IsInstalled.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/testArgs.r" afterPath="$PROJECT_DIR$/conf/tables/r/testArgs.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tables/r/testScript.r" afterPath="$PROJECT_DIR$/conf/tables/r/testScript.r" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create-zip.bat" afterPath="$PROJECT_DIR$/create-zip.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/CanReg5-Instructions/CanReg5-Instructions.lyx" afterPath="$PROJECT_DIR$/doc/CanReg5-Instructions/CanReg5-Instructions.lyx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inno-settings.txt" afterPath="$PROJECT_DIR$/inno-settings.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.mf" afterPath="$PROJECT_DIR$/manifest.mf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/jnlp-impl.xml" afterPath="$PROJECT_DIR$/nbproject/jnlp-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/jnlp-impl_backup.xml" afterPath="$PROJECT_DIR$/nbproject/jnlp-impl_backup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java" afterPath="$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/DistributedTableDataSourceClient.java" afterPath="$PROJECT_DIR$/src/canreg/client/DistributedTableDataSourceClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/LocalSettings.java" afterPath="$PROJECT_DIR$/src/canreg/client/LocalSettings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/LockFile.java" afterPath="$PROJECT_DIR$/src/canreg/client/LockFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/AgeSpecificCasesPerHundredThousandTableBuilder.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/AgeSpecificCasesPerHundredThousandTableBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/AgeSpecificCasesTableBuilder.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/AgeSpecificCasesTableBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/CasesByAgeGroupChartTableBuilder.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/CasesByAgeGroupChartTableBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/ConfigFieldsReader.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/ConfigFieldsReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/FixedWidthFileWriter.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/FixedWidthFileWriter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/PopulationPyramidTableBuilder.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/PopulationPyramidTableBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/RTableBuilderGrouped.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/RTableBuilderGrouped.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/SEERPrepFileTableBuilder.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/SEERPrepFileTableBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/TableBuilderInterface.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/TableBuilderInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/Tools.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/Tools.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/TopNChartTableBuilder.java" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/TopNChartTableBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/resources/AgeSpecificCasesPerHundredThousandTableBuilder_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/resources/AgeSpecificCasesPerHundredThousandTableBuilder_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/analysis/resources/AgeSpecificCasesTableBuilder_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/analysis/resources/AgeSpecificCasesTableBuilder_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/dataentry/Convert.java" afterPath="$PROJECT_DIR$/src/canreg/client/dataentry/Convert.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/dataentry/Import.java" afterPath="$PROJECT_DIR$/src/canreg/client/dataentry/Import.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/dataentry/ImportOptions.java" afterPath="$PROJECT_DIR$/src/canreg/client/dataentry/ImportOptions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/dataentry/PopulationDataSetHelper.java" afterPath="$PROJECT_DIR$/src/canreg/client/dataentry/PopulationDataSetHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientAboutBox.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientAboutBox.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientAboutBox.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientAboutBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientView.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/LatestNewsInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/LatestNewsInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/LoginInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/LoginInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/FrequenciesByYearInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/FrequenciesByYearInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/ExportReportInternalFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/ExportReportInternalFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/TableBuilderInternalFrame.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/TableBuilderInternalFrame.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/TableBuilderInternalFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/TableBuilderInternalFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/VariableChooserPanel.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/analysis/resources/VariableChooserPanel.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/DateVariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/DateVariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/PreviewFilePanel.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/PreviewFilePanel.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/PreviewFilePanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/PreviewFilePanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/RangeFilterPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/RangeFilterPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/TextFieldVariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/TextFieldVariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesChooserPanel.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesChooserPanel.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesChooserPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesChooserPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesExportDetailsPanel.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesExportDetailsPanel.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesExportDetailsPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesExportDetailsPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/components/resources/DisplayVariablesPanel_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/components/resources/DisplayVariablesPanel_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/AutoFillHelper.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/AutoFillHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/EditDictionaryInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/EditDictionaryInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportFilesView.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportFilesView.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportFilesView.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportFilesView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSChooserInternalFrame.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSChooserInternalFrame.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSChooserInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSChooserInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSEditorInternalFrame.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSEditorInternalFrame.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSEditorInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSEditorInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/RecordEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/RecordEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/BrowseInternalFrame.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/BrowseInternalFrame.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/PDSChooserInternalFrame.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/PDSChooserInternalFrame.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/PDSEditorInternalFrame.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/PDSEditorInternalFrame.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/PDSEditorInternalFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/PDSEditorInternalFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/RecordEditorPanel_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/RecordEditorPanel_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/AutoFillHelper.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/AutoFillHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorPatient.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorPatient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/DateVariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/DateVariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/TextAreaVariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/TextAreaVariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/VariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/VariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/resources/DictionaryVariableEditorPanel_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/resources/DictionaryVariableEditorPanel_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/resources/VariableEditorPanel_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/resources/VariableEditorPanel_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/resources/RecordEditorMainFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/resources/RecordEditorMainFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/resources/RecordEditorPatient_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/resources/RecordEditorPatient_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/resources/RecordEditorTumour_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/resources/RecordEditorTumour_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4PDSImporterInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4PDSImporterInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/ComparePatientsInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/ComparePatientsInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/InstallNewSystemInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/InstallNewSystemInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/OptionsFrame.form" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/OptionsFrame.form" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/OptionsFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/OptionsFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/PersonSearchVariablePanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/PersonSearchVariablePanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/UserManagerInternalFrame.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/UserManagerInternalFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/CanReg4PDSImporterInternalFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/CanReg4PDSImporterInternalFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/DatabaseVariableEditor_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/DatabaseVariableEditor_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/OptionsFrame.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/OptionsFrame.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/OptionsFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/OptionsFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/RestoreInternalFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/resources/RestoreInternalFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/systemeditor/DatabaseVariableEditorPanel.java" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/systemeditor/DatabaseVariableEditorPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/management/systemeditor/resources/DatabaseVariableEditorPanel.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/management/systemeditor/resources/DatabaseVariableEditorPanel.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientAboutBox.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientAboutBox.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientAboutBox_pt_PT.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientAboutBox_pt_PT.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientAboutBox_tr.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientAboutBox_tr.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientView_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/resources/CanRegClientView_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/gui/resources/LoginInternalFrame_ru.properties" afterPath="$PROJECT_DIR$/src/canreg/client/gui/resources/LoginInternalFrame_ru.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp.properties" afterPath="$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/DatabaseVariablesListElement.java" afterPath="$PROJECT_DIR$/src/canreg/common/DatabaseVariablesListElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/DateHelper.java" afterPath="$PROJECT_DIR$/src/canreg/common/DateHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/GlobalToolBox.java" afterPath="$PROJECT_DIR$/src/canreg/common/GlobalToolBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/Globals.java" afterPath="$PROJECT_DIR$/src/canreg/common/Globals.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/GregorianCalendarCanReg.java" afterPath="$PROJECT_DIR$/src/canreg/common/GregorianCalendarCanReg.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/JComponentToPDF.java" afterPath="$PROJECT_DIR$/src/canreg/common/JComponentToPDF.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/PagingTableModel.java" afterPath="$PROJECT_DIR$/src/canreg/common/PagingTableModel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/PersonSearchVariable.java" afterPath="$PROJECT_DIR$/src/canreg/common/PersonSearchVariable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/ServerLauncher.java" afterPath="$PROJECT_DIR$/src/canreg/common/ServerLauncher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/Tools.java" afterPath="$PROJECT_DIR$/src/canreg/common/Tools.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/Translation.java" afterPath="$PROJECT_DIR$/src/canreg/common/Translation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/Translator.java" afterPath="$PROJECT_DIR$/src/canreg/common/Translator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/conversions/ConversionICDO3toICCC3.java" afterPath="$PROJECT_DIR$/src/canreg/common/conversions/ConversionICDO3toICCC3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/conversions/ConversionICDO3toICD10.java" afterPath="$PROJECT_DIR$/src/canreg/common/conversions/ConversionICDO3toICD10.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/database/AgeGroupStructure.java" afterPath="$PROJECT_DIR$/src/canreg/common/database/AgeGroupStructure.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/database/DatabaseRecord.java" afterPath="$PROJECT_DIR$/src/canreg/common/database/DatabaseRecord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/database/PopulationDataset.java" afterPath="$PROJECT_DIR$/src/canreg/common/database/PopulationDataset.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/database/PopulationDatasetsEntry.java" afterPath="$PROJECT_DIR$/src/canreg/common/database/PopulationDatasetsEntry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/database/Tools.java" afterPath="$PROJECT_DIR$/src/canreg/common/database/Tools.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckAgeMorphology.java" afterPath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckAgeMorphology.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckDateOfLastContact.java" afterPath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckDateOfLastContact.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckGrade.java" afterPath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckGrade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckTopographyMorphology.java" afterPath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/CheckTopographyMorphology.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/Checker.java" afterPath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/Checker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/DefaultMultiplePrimaryTester.java" afterPath="$PROJECT_DIR$/src/canreg/common/qualitycontrol/DefaultMultiplePrimaryTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/resources/dictionaries/topography.tsv" afterPath="$PROJECT_DIR$/src/canreg/common/resources/dictionaries/topography.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/resources/lookup/ICCC-Table.txt" afterPath="$PROJECT_DIR$/src/canreg/common/resources/lookup/ICCC-Table.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/resources/lookup/MorphFam.txt" afterPath="$PROJECT_DIR$/src/canreg/common/resources/lookup/MorphFam.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/resources/lookup/O3_10M.txt" afterPath="$PROJECT_DIR$/src/canreg/common/resources/lookup/O3_10M.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/ruby/ddreader.rb" afterPath="$PROJECT_DIR$/src/canreg/common/ruby/ddreader.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/ruby/export_std_codes.tsv" afterPath="$PROJECT_DIR$/src/canreg/common/ruby/export_std_codes.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/common/ruby/export_std_variables.tsv" afterPath="$PROJECT_DIR$/src/canreg/common/ruby/export_std_variables.tsv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/CanRegLoginImpl.java" afterPath="$PROJECT_DIR$/src/canreg/server/CanRegLoginImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/CanRegLoginInterface.java" afterPath="$PROJECT_DIR$/src/canreg/server/CanRegLoginInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/CanRegServerImpl.java" afterPath="$PROJECT_DIR$/src/canreg/server/CanRegServerImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/CanRegServerInterface.java" afterPath="$PROJECT_DIR$/src/canreg/server/CanRegServerInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/CanRegServerProxy.java" afterPath="$PROJECT_DIR$/src/canreg/server/CanRegServerProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/DatabaseStats.java" afterPath="$PROJECT_DIR$/src/canreg/server/DatabaseStats.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java" afterPath="$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/database/DistributedTableDataSourceResultSetImpl.java" afterPath="$PROJECT_DIR$/src/canreg/server/database/DistributedTableDataSourceResultSetImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/database/QueryGenerator.java" afterPath="$PROJECT_DIR$/src/canreg/server/database/QueryGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/database/derby/Backup.java" afterPath="$PROJECT_DIR$/src/canreg/server/database/derby/Backup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/management/SystemDefinitionConverter.java" afterPath="$PROJECT_DIR$/src/canreg/server/management/SystemDefinitionConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/canreg/server/management/SystemDescription.java" afterPath="$PROJECT_DIR$/src/canreg/server/management/SystemDescription.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/canreg/server/database/ImportTest.java" afterPath="$PROJECT_DIR$/test/canreg/server/database/ImportTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/version.txt" afterPath="$PROJECT_DIR$/version.txt" />
     </list>
+    <ignored path="trunk-pcal.iws" />
+    <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/webproject/target/" />
+    <ignored path="$PROJECT_DIR$/../lib-src/jcalendar-master/target/" />
+    <ignored path="build/" />
+    <ignored path="build/classes/" />
+    <ignored path="build/empty/" />
+    <ignored path="build/generated-sources/" />
+    <ignored path="build/classes/canreg/" />
+    <ignored path="build/classes/META-INF/" />
+    <ignored path="build/generated-sources/ap-source-output/" />
+    <ignored path="build/classes/canreg/client/" />
+    <ignored path="build/classes/canreg/common/" />
+    <ignored path="build/classes/canreg/exceptions/" />
+    <ignored path="build/classes/canreg/server/" />
+    <ignored path="build/classes/META-INF/services/" />
+    <ignored path="build/classes/canreg/client/analysis/" />
+    <ignored path="build/classes/canreg/client/dataentry/" />
+    <ignored path="build/classes/canreg/client/gui/" />
+    <ignored path="build/classes/canreg/client/management/" />
+    <ignored path="build/classes/canreg/client/resources/" />
+    <ignored path="build/classes/canreg/common/cachingtableapi/" />
+    <ignored path="build/classes/canreg/common/conversions/" />
+    <ignored path="build/classes/canreg/common/database/" />
+    <ignored path="build/classes/canreg/common/gui/" />
+    <ignored path="build/classes/canreg/common/postscriptviewer/" />
+    <ignored path="build/classes/canreg/common/qualitycontrol/" />
+    <ignored path="build/classes/canreg/common/resources/" />
+    <ignored path="build/classes/canreg/common/ruby/" />
+    <ignored path="build/classes/canreg/server/database/" />
+    <ignored path="build/classes/canreg/server/management/" />
+    <ignored path="build/classes/canreg/server/resources/" />
+    <ignored path="build/classes/canreg/server/security/" />
+    <ignored path="build/classes/canreg/server/xml/" />
+    <ignored path="build/classes/canreg/client/analysis/resources/" />
+    <ignored path="build/classes/canreg/client/gui/analysis/" />
+    <ignored path="build/classes/canreg/client/gui/components/" />
+    <ignored path="build/classes/canreg/client/gui/dataentry/" />
+    <ignored path="build/classes/canreg/client/gui/management/" />
+    <ignored path="build/classes/canreg/client/gui/resources/" />
+    <ignored path="build/classes/canreg/client/gui/tools/" />
+    <ignored path="build/classes/canreg/common/postscriptviewer/interpreter/" />
+    <ignored path="build/classes/canreg/common/postscriptviewer/psfiles/" />
+    <ignored path="build/classes/canreg/common/resources/dictionaries/" />
+    <ignored path="build/classes/canreg/common/resources/lookup/" />
+    <ignored path="build/classes/canreg/server/database/derby/" />
+    <ignored path="build/classes/canreg/client/gui/analysis/resources/" />
+    <ignored path="build/classes/canreg/client/gui/components/resources/" />
+    <ignored path="build/classes/canreg/client/gui/dataentry/resources/" />
+    <ignored path="build/classes/canreg/client/gui/management/resources/" />
+    <ignored path="build/classes/canreg/client/gui/management/systemeditor/" />
+    <ignored path="build/classes/canreg/client/gui/resources/busyicons/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/" />
+    <ignored path="build/classes/canreg/client/gui/tools/globalpopup/" />
+    <ignored path="build/classes/canreg/client/gui/tools/resources/" />
+    <ignored path="build/classes/canreg/client/gui/management/systemeditor/resources/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/16x16/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/22x22/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/32x32/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/48x48/" />
+    <ignored path="build/classes/canreg/client/gui/tools/globalpopup/resources/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/16x16/actions/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/22x22/actions/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/32x32/actions/" />
+    <ignored path="build/classes/canreg/client/gui/resources/Vista-Inspirate_1.0/48x48/apps/" />
+    <ignored path="dist/" />
+    <ignored path="dist/web/" />
+    <ignored path="dist/web/CanReg5/" />
+    <ignored path="dist/web/CanReg5/conf/" />
+    <ignored path="dist/web/CanReg5/demo/" />
+    <ignored path="dist/web/CanReg5/doc/" />
+    <ignored path="dist/web/CanReg5/fonts/" />
+    <ignored path="dist/web/CanReg5/lib/" />
+    <ignored path="dist/web/CanReg5/scripts/" />
+    <ignored path="dist/web/CanReg5/web/" />
+    <ignored path="dist/web/CanReg5/conf/database/" />
+    <ignored path="dist/web/CanReg5/conf/tables/" />
+    <ignored path="dist/web/CanReg5/demo/backup/" />
+    <ignored path="dist/web/CanReg5/demo/database/" />
+    <ignored path="dist/web/CanReg5/demo/dictionary/" />
+    <ignored path="dist/web/CanReg5/lib/web/" />
+    <ignored path="dist/web/CanReg5/scripts/icd10grouper/" />
+    <ignored path="dist/web/CanReg5/web/css/" />
+    <ignored path="dist/web/CanReg5/web/images/" />
+    <ignored path="dist/web/CanReg5/web/js/" />
+    <ignored path="dist/web/CanReg5/web/less/" />
+    <ignored path="dist/web/CanReg5/web/WEB-INF/" />
+    <ignored path="dist/web/CanReg5/conf/tables/previews/" />
+    <ignored path="dist/web/CanReg5/conf/tables/ps/" />
+    <ignored path="dist/web/CanReg5/conf/tables/r/" />
+    <ignored path="dist/web/CanReg5/demo/backup/TRN/" />
+    <ignored path="dist/web/CanReg5/web/css/fonts/" />
+    <ignored path="dist/web/CanReg5/demo/backup/TRN/log/" />
+    <ignored path="dist/web/CanReg5/demo/backup/TRN/seg0/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,126 +342,142 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <manualInitString null="true" />
+    <showTooltips>true</showTooltips>
+    <failedCoveredHighlight>-3920</failedCoveredHighlight>
+    <periodicRefresh>false</periodicRefresh>
+    <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
+    <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <coveredHighlight>-3605816</coveredHighlight>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <includes null="true" />
+    <excludes null="true" />
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <filteredHighlight>-4144960</filteredHighlight>
+    <flushPolicy>0</flushPolicy>
+    <outOfDateHighlight>-32</outOfDateHighlight>
+    <showInline>true</showInline>
+    <dumpInstrumentedSources>false</dumpInstrumentedSources>
+    <hideFullyCovered>false</hideFullyCovered>
+    <autoRefresh>true</autoRefresh>
+    <modelScope class="com.atlassian.clover.idea.util.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <coveredStripe>-16711936</coveredStripe>
+    <highlightCovered>true</highlightCovered>
+    <viewCoverage>true</viewCoverage>
+    <notCoveredHighlight>-341816</notCoveredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <testViewScope class="com.atlassian.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <showGutter>true</showGutter>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <autoScroll>true</autoScroll>
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <generatedInitString>C:\workspace\CanReg5\trunk-pcal\.clover\coverage.db</generatedInitString>
+    <regexpContexts class="java.util.ArrayList" />
+    <flushInterval>5000</flushInterval>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <flattenPackages>false</flattenPackages>
+    <loadPerTestData>true</loadPerTestData>
+    <showErrorMarks>true</showErrorMarks>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
+    <contextFilterSpec />
+    <span>0</span>
+    <instrumentTests>true</instrumentTests>
+    <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <filteredStripe>-12566464</filteredStripe>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <enabled>false</enabled>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="trunk-pcal" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="DateHelperTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/canreg/common/DateHelperTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build-impl.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nbproject/build-impl.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="18377">
+              <caret line="1081" column="50" lean-forward="false" selection-start-line="1081" selection-start-column="50" selection-end-line="1081" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixedWidthFileWriterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Properties.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/Properties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9800">
-              <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanRegClientApp.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp.properties">
+      <file leaf-file-name="launch.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/web/CanReg5/launch.bat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
               <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanRegClientApp_es.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp_es.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanRegClientApp_fr.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp_fr.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanRegClientApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="103" column="41" lean-forward="true" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
-              <folding>
-                <element signature="e#26045#26046#0" expanded="true" />
-                <element signature="e#26081#26082#0" expanded="true" />
-                <element signature="e#26166#26167#0" expanded="true" />
-                <element signature="e#26192#26193#0" expanded="true" />
-                <element signature="e#26285#26286#0" expanded="true" />
-                <element signature="e#26318#26319#0" expanded="true" />
-                <element signature="e#35129#35130#0" expanded="true" />
-                <element signature="e#35160#35161#0" expanded="true" />
-                <element signature="e#37235#37236#0" expanded="true" />
-                <element signature="e#37289#37290#0" expanded="true" />
-                <element signature="e#37386#37387#0" expanded="true" />
-                <element signature="e#37441#37442#0" expanded="true" />
-                <element signature="e#61836#61837#0" expanded="true" />
-                <element signature="e#61884#61885#0" expanded="true" />
-                <element signature="e#68104#68105#0" expanded="true" />
-                <element signature="e#68160#68161#0" expanded="true" />
-                <element signature="e#69798#69799#0" expanded="true" />
-                <element signature="e#69847#69848#0" expanded="true" />
-                <element signature="e#71138#71139#0" expanded="true" />
-                <element signature="e#71196#71197#0" expanded="true" />
-                <element signature="e#71242#71243#0" expanded="true" />
-                <element signature="e#71293#71294#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CanRegClientApp.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/out/production/CanReg5/canreg/client/resources/CanRegClientApp.properties">
+      <file leaf-file-name="CanReg5-InnoSetup.iss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CanReg5-InnoSetup.iss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="408">
+              <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle">
-            <state />
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is</find>
+      <find>Cale</find>
+      <find>.jar</find>
+      <find>forms-1.3.0.jar</find>
+      <find>glazedlists</find>
+      <find>file.reference.tomcat-embed-core-7.0.57.jar</find>
+      <find>gla</find>
+      <find>rangefiler</find>
+      <find>ictlc</find>
+      <find>filter</find>
+      <find>Analy</find>
+      <find>ictl</find>
+      <find>rangeFilterPanel</find>
+      <find>N</find>
+      <find>NAN</find>
+      <find>NAN&quot;</find>
+      <find>&quot;NAN&quot;</find>
+      <find>E</find>
+      <find>layout</find>
+      <find>java.util.Calendar</find>
+      <find>d:\workspace</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -144,17 +490,80 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java" />
-        <option value="$PROJECT_DIR$/out/production/CanReg5/canreg/client/resources/CanRegClientApp.properties" />
+        <option value="$PROJECT_DIR$/src/canreg/common/database/PopulationDataset.java" />
+        <option value="$PROJECT_DIR$/src/canreg/common/qualitycontrol/Checker.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/CanRegLoginImpl.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/management/SystemDefinitionConverter.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/management/SystemDescription.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesChooserPanel.form" />
+        <option value="$PROJECT_DIR$/src/canreg/client/analysis/Tools.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/management/PersonSearchVariablePanel.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportFilesView.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientView.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/CanRegServerImpl.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/CanRegServerProxy.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/management/InstallNewSystemInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/CanRegClientAboutBox.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/LoginInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/LatestNewsInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/analysis/PopulationPyramidTableBuilder.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/AutoFillHelper.java" />
+        <option value="$PROJECT_DIR$/src/canreg/common/GregorianCalendarCanReg.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSEditorInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/PDSChooserInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/management/OptionsFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/management/resources/OptionsFrame.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/076b505c-fd62-4207-9a49-7d36b0a10f87/console.sql" />
+        <option value="$PROJECT_DIR$/src/canreg/common/DateHelper.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/dataentry/Import.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/components/RangeFilterPanel.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/analysis/FrequenciesByYearInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/components/VariablesChooserPanel.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/database/QueryGenerator.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/analysis/RTableBuilderGrouped.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorPatient.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java" />
+        <option value="$PROJECT_DIR$/nbproject/project.properties" />
+        <option value="$PROJECT_DIR$/manifest.mf" />
+        <option value="$PROJECT_DIR$/src/canreg/common/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/canreg/common/JComponentToPDF.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/database/derby/Functions.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.java" />
+        <option value="$PROJECT_DIR$/test/canreg/server/database/ImportTest.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry/RecordEditorPanel.java" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/AutoFillHelper.java" />
+        <option value="$PROJECT_DIR$/src/canreg/server/database/derby/Backup.java" />
+        <option value="$PROJECT_DIR$/CanReg5-InnoSetup.iss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="trunk-pcal/invalid/JRuby" />
+    </ignored-facets>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-36" />
+    <option name="width" value="1460" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -170,77 +579,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
               <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,11 +597,40 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/NetBeans 8.2/platform/modules/ext/junit-4.12.jar!/" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-libs" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Derby (Embedded)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\CanReg5\trunk-pcal\lib\web" />
+      <recent name="C:\workspace\CanReg5\trunk-pcal\web" />
+      <recent name="C:\workspace\CanReg5\trunk-pcal\web\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="canreg.server.database.derby" />
+      <recent name="canreg.common" />
+      <recent name="canreg.client.gui.components" />
+      <recent name="canreg.client.dataentry" />
+      <recent name="canreg.client.gui.management" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\workspace\CanReg5\trunk-pcal" />
+      <recent name="J:\workspace\CanReg5\trunk-pcal\src\canreg" />
+      <recent name="J:\workspace\CanReg5\trunk-pcal\lib" />
+      <recent name="J:\workspace\CanReg5\trunk-pcal\src\canreg\client\gui\management\systemeditor" />
+      <recent name="J:\workspace\CanReg5\trunk-pcal\lib\web" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -267,23 +644,118 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CanReg5">
-    <configuration name="CanReg5" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="canreg.client.CanRegClientApp" />
-      <option name="VM_PARAMETERS" value="-server -Xms256m -Xmx1024m -XX:+AggressiveOpts -XX:-DoEscapeAnalysis" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+  <component name="RunManager" selected="Remote.Unnamed (1)">
+    <configuration name="ImportTest.testFunctionToDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="canreg.server.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="trunk-pcal" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="canreg.server.database" />
+      <option name="MAIN_CLASS_NAME" value="canreg.server.database.ImportTest" />
+      <option name="METHOD_NAME" value="testFunctionToDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CanReg5" />
+      <module name="jcalendar" />
       <envs />
     </configuration>
+    <configuration name="TomcatLauncher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="canreg.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="canreg.web.TomcatLauncher" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="trunk-pcal" />
+      <envs />
+    </configuration>
+    <configuration name="Unnamed (1)" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration name="Unnamed" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="172.21.63.30" />
+      <option name="PORT" value="8080" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8080" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -291,21 +763,34 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="canreg.client.CanRegClientApp" />
-      <option name="VM_PARAMETERS" value="-server -Xms256m -Xmx1024m -XX: +AgressiveOpts -XX: -DoEscapeAnalysis" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CanReg5" />
+      <module name="" />
       <envs />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -354,7 +839,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -368,253 +853,1531 @@
       <properties />
       <listeners />
     </configuration>
-  </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="trunk-pcal" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Remote.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.Unnamed (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TomcatLauncher" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ImportTest.testFunctionToDate" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ImportTest.testFunctionToDate" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TomcatLauncher" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Users\Int-AsgariNia\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="62ba01ca-4167-4b6c-a912-63bc395550ce" name="Default" comment="" />
-      <created>1500560757863</created>
+      <changelist id="d34ad2f7-610f-45be-a789-0cf9fc9ddd4c" name="Default" comment="" />
+      <created>1440933381962</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1500560757863</updated>
+      <updated>1440933381962</updated>
+      <workItem from="1440933387043" duration="52755000" />
+      <workItem from="1441514827748" duration="372000" />
+      <workItem from="1441530161698" duration="1208000" />
+      <workItem from="1441534180329" duration="3928000" />
+      <workItem from="1441541519942" duration="4509000" />
+      <workItem from="1442122857728" duration="7068000" />
+      <workItem from="1442221900165" duration="3485000" />
+      <workItem from="1442225930907" duration="2930000" />
+      <workItem from="1442229200004" duration="463000" />
+      <workItem from="1442229759847" duration="332000" />
+      <workItem from="1442230166152" duration="692000" />
+      <workItem from="1442231165913" duration="2006000" />
+      <workItem from="1442727215167" duration="3098000" />
+      <workItem from="1442908546782" duration="16954000" />
+      <workItem from="1443007178169" duration="11204000" />
+      <workItem from="1443155295292" duration="621000" />
+      <workItem from="1443169343665" duration="4602000" />
+      <workItem from="1443248149585" duration="4161000" />
+      <workItem from="1443524498193" duration="1636000" />
+      <workItem from="1443526358796" duration="3214000" />
+      <workItem from="1443529901335" duration="1950000" />
+      <workItem from="1443611146505" duration="4222000" />
+      <workItem from="1443766089139" duration="178000" />
+      <workItem from="1444202008780" duration="5066000" />
+      <workItem from="1446980729137" duration="2942000" />
+      <workItem from="1447140143042" duration="122000" />
+      <workItem from="1447824154329" duration="1046000" />
+      <workItem from="1449669485763" duration="2794000" />
+      <workItem from="1450017535061" duration="7708000" />
+      <workItem from="1450075907696" duration="2218000" />
+      <workItem from="1455341929186" duration="2165000" />
+      <workItem from="1455606965751" duration="7092000" />
+      <workItem from="1455689235454" duration="1597000" />
+      <workItem from="1455703468449" duration="6079000" />
+      <workItem from="1455720611155" duration="714000" />
+      <workItem from="1455721379398" duration="3952000" />
+      <workItem from="1455787576294" duration="573000" />
+      <workItem from="1455788223216" duration="1747000" />
+      <workItem from="1455974509357" duration="688000" />
+      <workItem from="1455975471193" duration="1271000" />
+      <workItem from="1456842208426" duration="40000" />
+      <workItem from="1463743324198" duration="4745000" />
+      <workItem from="1464672940078" duration="2636000" />
+      <workItem from="1469863264778" duration="5408000" />
+      <workItem from="1470040900651" duration="127000" />
+      <workItem from="1473227077310" duration="13897000" />
+      <workItem from="1473742220654" duration="3731000" />
+      <workItem from="1475036831169" duration="2037000" />
+      <workItem from="1475056346388" duration="2143000" />
+      <workItem from="1476506608723" duration="21435000" />
+      <workItem from="1476885270678" duration="98000" />
+      <workItem from="1477112732680" duration="21950000" />
+      <workItem from="1477749396053" duration="376000" />
+      <workItem from="1478756658543" duration="4273000" />
+      <workItem from="1478847785600" duration="274000" />
+      <workItem from="1478848203349" duration="3965000" />
+      <workItem from="1478925694125" duration="5398000" />
+      <workItem from="1478984348461" duration="5923000" />
+      <workItem from="1479064891842" duration="2816000" />
+      <workItem from="1481553332525" duration="1927000" />
+      <workItem from="1481615331914" duration="48000" />
+      <workItem from="1482157430119" duration="1097000" />
+      <workItem from="1482210637627" duration="4405000" />
+      <workItem from="1496470191930" duration="3164000" />
+      <workItem from="1496720587816" duration="3664000" />
+      <workItem from="1496806668578" duration="93000" />
+      <workItem from="1496807149704" duration="140000" />
+      <workItem from="1497175633025" duration="405000" />
+      <workItem from="1497238756847" duration="28000" />
+      <workItem from="1497239510823" duration="549000" />
+      <workItem from="1507353049523" duration="675000" />
+      <workItem from="1508216792103" duration="410000" />
+      <workItem from="1508217674537" duration="66000" />
+      <workItem from="1508568378806" duration="2515000" />
+      <workItem from="1508646976314" duration="1070000" />
+      <workItem from="1509790621165" duration="779000" />
+      <workItem from="1509797567116" duration="1955000" />
+      <workItem from="1509802770618" duration="159000" />
     </task>
+    <task id="LOCAL-00001" summary="fix invalid morphology display in search dialogs">
+      <created>1463748693548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463748693548</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix invalid date pasring in import">
+      <created>1464702477137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1464702477137</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix invalid date pasring in import">
+      <created>1476885338937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476885338937</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix some bugs 950822">
+      <created>1478944205384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1478944205384</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix some bugs 950822">
+      <created>1478944255661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1478944255661</updated>
+    </task>
+    <task id="LOCAL-00006" summary="merge 1396/07/29">
+      <created>1508577747440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508577747440</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 44m 59s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 45m 34s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 47m 12s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 55m 41s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 56m 23s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 58m 03s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 15h 59m 23s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 16h 23m 21s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 16h 24m 27s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ImportTest_testFunctionToDate - 2016.09.07 at 16h 52m 58s.xml">
+      <configuration name="ImportTest.testFunctionToDate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="303783000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <frame x="54" y="-8" width="1394" height="916" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261889" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21214393" sideWeight="0.47398844" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997987" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2045607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20764618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31673053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21554054" sideWeight="0.5260116" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JFormDesigner Error Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885003" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26309067" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="JFormDesigner Form Converter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3614304" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17741935" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261889" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885003" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2045607" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18218352" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31673053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26309067" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3614304" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21098459" sideWeight="0.47398844" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997987" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17752235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21554054" sideWeight="0.5260116" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="fix invalid morphology display in search dialogs" />
+    <MESSAGE value="fix invalid date pasring in import" />
+    <MESSAGE value="fix some bugs 950822" />
+    <MESSAGE value="merge 1396/03/20" />
+    <MESSAGE value="merge 1396/07/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge 1396/07/29" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java</url>
+          <line>391</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/web/TomcatLauncher.java</url>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/web/servlet/CanReg5Servlet.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/web/servlet/CanReg5Servlet.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/web/servlet/CanReg5Servlet.java</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/web/servlet/CanReg5Servlet.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/web/TomcatLauncher.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/common/qualitycontrol/Checker.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java</url>
+          <line>1034</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/management/UserManagerInternalFrame.java</url>
+          <line>702</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java</url>
+          <line>1414</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/management/UserManagerInternalFrame.java</url>
+          <line>690</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/management/InstallNewSystemInternalFrame.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/common/Tools.java</url>
+          <line>614</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/NCIDFieldVariableEditorPanel.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/NCIDFieldVariableEditorPanel.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java</url>
+          <line>993</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>970</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>238</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
+          <line>827</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>229</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java</url>
+          <line>818</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
+          <line>777</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
+          <line>814</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
+          <line>824</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
+          <line>811</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>474</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>468</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>457</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>481</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
+          <line>515</line>
+          <properties />
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/server/database/QueryGenerator.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java</url>
+          <line>316</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java</url>
+          <line>382</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java</url>
+          <line>549</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java</url>
+          <line>511</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/analysis/RTableBuilderGrouped.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.java</url>
+          <line>529</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="XBreakpointGroupingByPackageRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+      <option name="time" value="292" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="value.toString() + &quot; (&quot; + label + &quot;)&quot;" />
+        <watch expression="element.getFullName()" />
+        <watch expression="value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/build.xml">
+      <targetFilters>
+        <filter targetName="-pre-jar" isVisible="false" />
+        <filter targetName="-post-jar" isVisible="false" />
+        <filter targetName="default" isVisible="false" />
+        <filter targetName="-pre-init" isVisible="false" />
+        <filter targetName="-init-private" isVisible="false" />
+        <filter targetName="-init-user" isVisible="false" />
+        <filter targetName="-init-project" isVisible="false" />
+        <filter targetName="-do-init" isVisible="false" />
+        <filter targetName="-post-init" isVisible="false" />
+        <filter targetName="-init-check" isVisible="false" />
+        <filter targetName="-init-macrodef-property" isVisible="false" />
+        <filter targetName="-init-macrodef-javac-with-processors" isVisible="false" />
+        <filter targetName="-init-macrodef-javac-without-processors" isVisible="false" />
+        <filter targetName="-init-macrodef-javac" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-init" isVisible="false" />
+        <filter targetName="-init-test-properties" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-single" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-batch" isVisible="false" />
+        <filter targetName="-init-macrodef-junit" isVisible="false" />
+        <filter targetName="-init-macrodef-testng" isVisible="false" />
+        <filter targetName="-init-macrodef-test-impl" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-impl" isVisible="false" />
+        <filter targetName="-init-macrodef-testng-impl" isVisible="false" />
+        <filter targetName="-init-macrodef-test" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-debug" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-debug-batch" isVisible="false" />
+        <filter targetName="-init-macrodef-junit-debug-impl" isVisible="false" />
+        <filter targetName="-init-macrodef-testng-debug" isVisible="false" />
+        <filter targetName="-init-macrodef-testng-debug-impl" isVisible="false" />
+        <filter targetName="-init-macrodef-test-debug-junit" isVisible="false" />
+        <filter targetName="-init-macrodef-test-debug-testng" isVisible="false" />
+        <filter targetName="-init-macrodef-test-debug" isVisible="false" />
+        <filter targetName="profile-init" isVisible="false" />
+        <filter targetName="-profile-pre-init" isVisible="false" />
+        <filter targetName="-profile-post-init" isVisible="false" />
+        <filter targetName="-profile-init-macrodef-profile" isVisible="false" />
+        <filter targetName="-profile-init-check" isVisible="false" />
+        <filter targetName="-init-macrodef-nbjpda" isVisible="false" />
+        <filter targetName="-init-debug-args" isVisible="false" />
+        <filter targetName="-init-macrodef-debug" isVisible="false" />
+        <filter targetName="-init-macrodef-java" isVisible="false" />
+        <filter targetName="-init-macrodef-copylibs" isVisible="false" />
+        <filter targetName="-init-presetdef-jar" isVisible="false" />
+        <filter targetName="-init-ap-cmdline-properties" isVisible="false" />
+        <filter targetName="-init-ap-cmdline-supported" isVisible="false" />
+        <filter targetName="-init-ap-cmdline" isVisible="false" />
+        <filter targetName="init" isVisible="false" />
+        <filter targetName="-deps-jar-init" isVisible="false" />
+        <filter targetName="-warn-already-built-jar" isVisible="false" />
+        <filter targetName="deps-jar" isVisible="false" />
+        <filter targetName="-verify-automatic-build" isVisible="false" />
+        <filter targetName="-check-automatic-build" isVisible="false" />
+        <filter targetName="-clean-after-automatic-build" isVisible="false" />
+        <filter targetName="-pre-pre-compile" isVisible="false" />
+        <filter targetName="-pre-compile" isVisible="false" />
+        <filter targetName="-compile-depend" isVisible="false" />
+        <filter targetName="-do-compile" isVisible="false" />
+        <filter targetName="-copy-persistence-xml" isVisible="false" />
+        <filter targetName="-post-compile" isVisible="false" />
+        <filter targetName="compile" isVisible="true" />
+        <filter targetName="-pre-compile-single" isVisible="false" />
+        <filter targetName="-do-compile-single" isVisible="false" />
+        <filter targetName="-post-compile-single" isVisible="false" />
+        <filter targetName="compile-single" isVisible="false" />
+        <filter targetName="-pre-pre-jar" isVisible="false" />
+        <filter targetName="-do-jar-create-manifest" isVisible="false" />
+        <filter targetName="-do-jar-copy-manifest" isVisible="false" />
+        <filter targetName="-do-jar-set-mainclass" isVisible="false" />
+        <filter targetName="-do-jar-set-profile" isVisible="false" />
+        <filter targetName="-do-jar-set-splashscreen" isVisible="false" />
+        <filter targetName="-do-jar-copylibs" isVisible="false" />
+        <filter targetName="-do-jar-jar" isVisible="false" />
+        <filter targetName="-do-jar-delete-manifest" isVisible="false" />
+        <filter targetName="-do-jar-without-libraries" isVisible="false" />
+        <filter targetName="-do-jar-with-libraries" isVisible="false" />
+        <filter targetName="-do-jar" isVisible="false" />
+        <filter targetName="jar" isVisible="true" />
+        <filter targetName="run" isVisible="true" />
+        <filter targetName="-do-not-recompile" isVisible="false" />
+        <filter targetName="run-single" isVisible="false" />
+        <filter targetName="run-test-with-main" isVisible="false" />
+        <filter targetName="-debug-start-debugger" isVisible="false" />
+        <filter targetName="-debug-start-debugger-main-test" isVisible="false" />
+        <filter targetName="-debug-start-debuggee" isVisible="false" />
+        <filter targetName="debug" isVisible="true" />
+        <filter targetName="-debug-start-debugger-stepinto" isVisible="false" />
+        <filter targetName="debug-stepinto" isVisible="false" />
+        <filter targetName="-debug-start-debuggee-single" isVisible="false" />
+        <filter targetName="debug-single" isVisible="false" />
+        <filter targetName="-debug-start-debuggee-main-test" isVisible="false" />
+        <filter targetName="debug-test-with-main" isVisible="false" />
+        <filter targetName="-pre-debug-fix" isVisible="false" />
+        <filter targetName="-do-debug-fix" isVisible="false" />
+        <filter targetName="debug-fix" isVisible="false" />
+        <filter targetName="-profile-pre72" isVisible="true" />
+        <filter targetName="-profile-single-pre72" isVisible="true" />
+        <filter targetName="-profile-applet-pre72" isVisible="false" />
+        <filter targetName="-profile-test-single-pre72" isVisible="false" />
+        <filter targetName="-profile-check" isVisible="false" />
+        <filter targetName="profile" isVisible="true" />
+        <filter targetName="profile-single" isVisible="true" />
+        <filter targetName="profile-test-single" isVisible="true" />
+        <filter targetName="profile-test" isVisible="true" />
+        <filter targetName="profile-test-with-main" isVisible="true" />
+        <filter targetName="profile-applet" isVisible="false" />
+        <filter targetName="-javadoc-build" isVisible="false" />
+        <filter targetName="-javadoc-browse" isVisible="false" />
+        <filter targetName="javadoc" isVisible="true" />
+        <filter targetName="-pre-pre-compile-test" isVisible="false" />
+        <filter targetName="-pre-compile-test" isVisible="false" />
+        <filter targetName="-compile-test-depend" isVisible="false" />
+        <filter targetName="-do-compile-test" isVisible="false" />
+        <filter targetName="-post-compile-test" isVisible="false" />
+        <filter targetName="compile-test" isVisible="false" />
+        <filter targetName="-pre-compile-test-single" isVisible="false" />
+        <filter targetName="-do-compile-test-single" isVisible="false" />
+        <filter targetName="-post-compile-test-single" isVisible="false" />
+        <filter targetName="compile-test-single" isVisible="false" />
+        <filter targetName="-pre-test-run" isVisible="false" />
+        <filter targetName="-do-test-run" isVisible="false" />
+        <filter targetName="-post-test-run" isVisible="false" />
+        <filter targetName="test-report" isVisible="false" />
+        <filter targetName="-test-browse" isVisible="false" />
+        <filter targetName="test" isVisible="true" />
+        <filter targetName="-pre-test-run-single" isVisible="false" />
+        <filter targetName="-do-test-run-single" isVisible="false" />
+        <filter targetName="-post-test-run-single" isVisible="false" />
+        <filter targetName="test-single" isVisible="true" />
+        <filter targetName="-do-test-run-single-method" isVisible="false" />
+        <filter targetName="-post-test-run-single-method" isVisible="false" />
+        <filter targetName="test-single-method" isVisible="true" />
+        <filter targetName="-debug-start-debuggee-test" isVisible="false" />
+        <filter targetName="-debug-start-debuggee-test-method" isVisible="false" />
+        <filter targetName="-debug-start-debugger-test" isVisible="false" />
+        <filter targetName="debug-test" isVisible="false" />
+        <filter targetName="debug-test-method" isVisible="false" />
+        <filter targetName="-do-debug-fix-test" isVisible="false" />
+        <filter targetName="debug-fix-test" isVisible="false" />
+        <filter targetName="run-applet" isVisible="false" />
+        <filter targetName="-debug-start-debuggee-applet" isVisible="false" />
+        <filter targetName="debug-applet" isVisible="false" />
+        <filter targetName="-deps-clean-init" isVisible="false" />
+        <filter targetName="-warn-already-built-clean" isVisible="false" />
+        <filter targetName="deps-clean" isVisible="false" />
+        <filter targetName="-do-clean" isVisible="false" />
+        <filter targetName="-post-clean" isVisible="false" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="-check-call-dep" isVisible="false" />
+        <filter targetName="-maybe-call-dep" isVisible="false" />
+        <filter targetName="-check-operating-system" isVisible="false" />
+        <filter targetName="-substitute-platform-home" isVisible="false" />
+        <filter targetName="-init-platform" isVisible="false" />
+        <filter targetName="-check-webstart-in-platform-home-jre" isVisible="false" />
+        <filter targetName="-set-webstart-in-platform-home-jre" isVisible="false" />
+        <filter targetName="-check-webstart-in-platform-home" isVisible="false" />
+        <filter targetName="-set-webstart-in-platform-home" isVisible="false" />
+        <filter targetName="-check-webstart-in-platform-home-220918workaround" isVisible="false" />
+        <filter targetName="-set-webstart-in-platform-home-220918workaround" isVisible="false" />
+        <filter targetName="-check-webstart-in-jre" isVisible="false" />
+        <filter targetName="-set-webstart-in-jre" isVisible="false" />
+        <filter targetName="-check-webstart-in-probjdk" isVisible="false" />
+        <filter targetName="-set-webstart-in-probjdk" isVisible="false" />
+        <filter targetName="-check-webstart-in-envjdk" isVisible="false" />
+        <filter targetName="-set-webstart-in-envjdk" isVisible="false" />
+        <filter targetName="-check-webstart-in-usr-bin" isVisible="false" />
+        <filter targetName="-set-webstart-in-usr-bin" isVisible="false" />
+        <filter targetName="-pre-check-webstart-in-unix" isVisible="false" />
+        <filter targetName="-check-webstart-in-unix" isVisible="false" />
+        <filter targetName="-set-webstart-in-unix" isVisible="false" />
+        <filter targetName="-pre-check-webstart" isVisible="false" />
+        <filter targetName="-check-webstart" isVisible="false" />
+        <filter targetName="jnlp" isVisible="false" />
+        <filter targetName="-init-macrodef-extend-manifest" isVisible="false" />
+        <filter targetName="-test-jnlp-type" isVisible="false" />
+        <filter targetName="-create-tmp-manifest" isVisible="false" />
+        <filter targetName="-copy-tmp-manifest" isVisible="false" />
+        <filter targetName="-set-mixed-code-properties" isVisible="false" />
+        <filter targetName="-add-trusted-only-attribute" isVisible="false" />
+        <filter targetName="-add-trusted-library-attribute" isVisible="false" />
+        <filter targetName="-check-manifest-codebase" isVisible="false" />
+        <filter targetName="-extend-manifest-codebase-copy" isVisible="false" />
+        <filter targetName="-extend-manifest-codebase-web" isVisible="false" />
+        <filter targetName="-extend-manifest-codebase-other" isVisible="false" />
+        <filter targetName="-extend-manifest-codebase-override-warning" isVisible="false" />
+        <filter targetName="-extend-manifest-codebase-override" isVisible="false" />
+        <filter targetName="-check-manifest-permissions" isVisible="false" />
+        <filter targetName="-extend-manifest-permissions-sandbox" isVisible="false" />
+        <filter targetName="-extend-manifest-permissions-all" isVisible="false" />
+        <filter targetName="-extend-manifest-permissions-override" isVisible="false" />
+        <filter targetName="-extend-manifest-application-name" isVisible="false" />
+        <filter targetName="-add-manifest-security" isVisible="false" />
+        <filter targetName="-do-jar-applet" isVisible="false" />
+        <filter targetName="-do-jar-jnlp-application" isVisible="false" />
+        <filter targetName="-do-jar-jnlp-component" isVisible="false" />
+        <filter targetName="-do-jar-jnlp" isVisible="false" />
+        <filter targetName="-init-filename" isVisible="false" />
+        <filter targetName="-set-jnlp-filename-custom" isVisible="false" />
+        <filter targetName="-set-jnlp-filename-default" isVisible="false" />
+        <filter targetName="-check-filename-prop" isVisible="false" />
+        <filter targetName="-test-jnlp-enabled" isVisible="false" />
+        <filter targetName="-test-signing-security" isVisible="false" />
+        <filter targetName="generate-jnlp" isVisible="false" />
+        <filter targetName="-strip-empty-lines" isVisible="false" />
+        <filter targetName="-test-generate-task-available" isVisible="false" />
+        <filter targetName="-unavailable-generate-task" isVisible="false" />
+        <filter targetName="-codebase-props-check" isVisible="false" />
+        <filter targetName="-init-non-user-codebase" isVisible="false" />
+        <filter targetName="-init-user-codebase" isVisible="false" />
+        <filter targetName="-security-props-check" isVisible="false" />
+        <filter targetName="-jnlp-init-keystore" isVisible="false" />
+        <filter targetName="-check-keystore-exists" isVisible="false" />
+        <filter targetName="-jnlp-init-signing" isVisible="false" />
+        <filter targetName="-jnlp-init-keystore1" isVisible="false" />
+        <filter targetName="-jnlp-init-keystore2" isVisible="false" />
+        <filter targetName="-test-signjars-task-available" isVisible="false" />
+        <filter targetName="-check-signing-possible" isVisible="false" />
+        <filter targetName="-unavailable-signjars-task" isVisible="false" />
+        <filter targetName="sign-jars" isVisible="false" />
+        <filter targetName="-warn-insufficient-signing" isVisible="false" />
+        <filter targetName="jws-run" isVisible="true" />
+        <filter targetName="jws-debug" isVisible="true" />
+        <filter targetName="-debug-javaws-debuggee" isVisible="false" />
+        <filter targetName="-verify-codebase" isVisible="false" />
+        <filter targetName="-verify-jnlp-enabled" isVisible="false" />
+        <filter targetName="-check-html-preview" isVisible="false" />
+        <filter targetName="generate-html-preview" isVisible="false" />
+        <filter targetName="-check-manifest-application-library-allowable-codebase" isVisible="false" />
+        <filter targetName="-extend-manifest-application-library-allowable-codebase-copy" isVisible="false" />
+        <filter targetName="-extend-manifest-application-library-allowable-codebase-web" isVisible="false" />
+        <filter targetName="-extend-manifest-application-library-allowable-codebase-other" isVisible="false" />
+        <filter targetName="-extend-manifest-application-library-allowable-codebase-override-warning" isVisible="false" />
+        <filter targetName="-extend-manifest-application-library-allowable-codebase-override" isVisible="false" />
+        <filter targetName="-check-manifest-caller-allowable-codebase" isVisible="false" />
+        <filter targetName="-extend-manifest-caller-allowable-codebase-copy" isVisible="false" />
+        <filter targetName="-extend-manifest-caller-allowable-codebase-web" isVisible="false" />
+        <filter targetName="-extend-manifest-caller-allowable-codebase-other" isVisible="false" />
+        <filter targetName="-extend-manifest-caller-allowable-codebase-override-warning" isVisible="false" />
+        <filter targetName="-extend-manifest-caller-allowable-codebase-override" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp_es.properties">
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/database/QueryGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/canreg/common/DateHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="1887">
+          <caret line="136" column="42" lean-forward="false" selection-start-line="136" selection-start-column="42" selection-end-line="136" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#15640#15641#0" expanded="false" />
+            <element signature="e#15692#15693#0" expanded="false" />
+            <element signature="e#15804#15805#0" expanded="false" />
+            <element signature="e#15855#15856#0" expanded="false" />
+            <element signature="e#15967#15968#0" expanded="false" />
+            <element signature="e#16018#16019#0" expanded="false" />
+            <element signature="e#26634#26635#0" expanded="false" />
+            <element signature="e#26686#26687#0" expanded="false" />
+            <element signature="e#26735#26736#0" expanded="false" />
+            <element signature="e#26786#26787#0" expanded="false" />
+            <element signature="e#26835#26836#0" expanded="false" />
+            <element signature="e#26886#26887#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/Properties.java">
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/resources/RecordEditor.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10825">
-          <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/canreg/client/gui/management/resources/PersonSearchFrame.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/management/PersonSearchFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="460" column="67" lean-forward="false" selection-start-line="460" selection-start-column="67" selection-end-line="460" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/qualitycontrol/PersonSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/qualitycontrol/DefaultPersonSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="237" column="0" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/analysis/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4624">
+          <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/management/PersonSearchVariablesPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="270" column="17" lean-forward="false" selection-start-line="270" selection-start-column="17" selection-end-line="270" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/classes/canreg/client/gui/management/resources/PersonSearchVariablesPanel.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13311">
+          <caret line="1360" column="0" lean-forward="false" selection-start-line="1360" selection-start-column="0" selection-end-line="1360" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/analysis/RTableBuilderGrouped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1529">
+          <caret line="249" column="11" lean-forward="false" selection-start-line="249" selection-start-column="11" selection-end-line="249" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp.properties">
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="55" column="32" lean-forward="false" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/CanRegLoginImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="58" column="24" lean-forward="false" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/icu4j-57_1.jar!/com/ibm/icu/util/GregorianCalendar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/GregorianCalendarCanReg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorPatient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="682" column="0" lean-forward="false" selection-start-line="682" selection-start-column="0" selection-end-line="682" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbproject/genfiles.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inno-settings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inno-build.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbproject/project.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="110" column="32" lean-forward="false" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectdetails-server.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projectdetails.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp_fr.properties">
+    <entry file="file://$PROJECT_DIR$/nbproject/project.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/trunk-pcal/canreg/client/CanRegClientApp.class" />
+    <entry file="file://$PROJECT_DIR$/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/JComponentToPDFHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/DatabaseVariablesListElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="226" column="0" lean-forward="false" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/JComponentToPDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2775">
-          <caret line="111" column="6" lean-forward="true" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
+        <state relative-caret-position="13668">
+          <caret line="913" column="49" lean-forward="false" selection-start-line="913" selection-start-column="49" selection-end-line="913" selection-end-column="49" />
           <folding>
-            <element signature="e#26045#26046#0" expanded="true" />
-            <element signature="e#26081#26082#0" expanded="true" />
-            <element signature="e#26166#26167#0" expanded="true" />
-            <element signature="e#26192#26193#0" expanded="true" />
-            <element signature="e#26285#26286#0" expanded="true" />
-            <element signature="e#26318#26319#0" expanded="true" />
-            <element signature="e#35129#35130#0" expanded="true" />
-            <element signature="e#35160#35161#0" expanded="true" />
-            <element signature="e#37235#37236#0" expanded="true" />
-            <element signature="e#37289#37290#0" expanded="true" />
-            <element signature="e#37386#37387#0" expanded="true" />
-            <element signature="e#37441#37442#0" expanded="true" />
-            <element signature="e#61836#61837#0" expanded="true" />
-            <element signature="e#61884#61885#0" expanded="true" />
-            <element signature="e#68104#68105#0" expanded="true" />
-            <element signature="e#68160#68161#0" expanded="true" />
-            <element signature="e#69798#69799#0" expanded="true" />
-            <element signature="e#69847#69848#0" expanded="true" />
-            <element signature="e#71138#71139#0" expanded="true" />
-            <element signature="e#71196#71197#0" expanded="true" />
-            <element signature="e#71242#71243#0" expanded="true" />
-            <element signature="e#71293#71294#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#17389#17390#0" expanded="false" />
+            <element signature="e#17458#17459#0" expanded="false" />
+            <element signature="e#23755#23756#0" expanded="false" />
+            <element signature="e#23788#23789#0" expanded="false" />
+            <element signature="e#26211#26212#0" expanded="false" />
+            <element signature="e#26247#26248#0" expanded="false" />
+            <element signature="e#26333#26334#0" expanded="false" />
+            <element signature="e#26359#26360#0" expanded="false" />
+            <element signature="e#26453#26454#0" expanded="false" />
+            <element signature="e#26486#26487#0" expanded="false" />
+            <element signature="e#35316#35317#0" expanded="false" />
+            <element signature="e#35347#35348#0" expanded="false" />
+            <element signature="e#37433#37434#0" expanded="false" />
+            <element signature="e#37487#37488#0" expanded="false" />
+            <element signature="e#37585#37586#0" expanded="false" />
+            <element signature="e#37640#37641#0" expanded="false" />
+            <element signature="e#62068#62069#0" expanded="false" />
+            <element signature="e#62116#62117#0" expanded="false" />
+            <element signature="e#68329#68330#0" expanded="false" />
+            <element signature="e#68385#68386#0" expanded="false" />
+            <element signature="e#70023#70024#0" expanded="false" />
+            <element signature="e#70072#70073#0" expanded="false" />
+            <element signature="e#71363#71364#0" expanded="false" />
+            <element signature="e#71421#71422#0" expanded="false" />
+            <element signature="e#71467#71468#0" expanded="false" />
+            <element signature="e#71518#71519#0" expanded="false" />
+            <element signature="e#71737#71738#0" expanded="false" />
+            <element signature="e#71793#71794#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/canreg/common/DateHelperTest.java">
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/CanRegServerInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="5219">
+          <caret line="349" column="39" lean-forward="false" selection-start-line="349" selection-start-column="39" selection-end-line="349" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/CanRegServerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8483">
+          <caret line="568" column="60" lean-forward="false" selection-start-line="568" selection-start-column="60" selection-end-line="568" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6919">
+          <caret line="442" column="0" lean-forward="false" selection-start-line="442" selection-start-column="0" selection-end-line="442" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/database/derby/Functions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="595">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12546">
+          <caret line="738" column="0" lean-forward="false" selection-start-line="738" selection-start-column="0" selection-end-line="738" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/components/RangeFilterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7514">
+          <caret line="768" column="17" lean-forward="false" selection-start-line="768" selection-start-column="17" selection-end-line="768" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.jfd" />
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/analysis/FrequenciesByYearInternalFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="147" column="78" lean-forward="false" selection-start-line="147" selection-start-column="28" selection-end-line="147" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#8101#8190#0" expanded="false" />
+            <marker date="1508577396118" expanded="false" signature="51865:51926" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/Properties.java">
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/analysis/ExportReportInternalFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9800">
-          <caret line="433" column="0" lean-forward="false" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="93" column="18" lean-forward="false" selection-start-line="93" selection-start-column="18" selection-end-line="93" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp.properties">
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/components/DictionaryVariableEditorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="589" column="11" lean-forward="true" selection-start-line="589" selection-start-column="11" selection-end-line="589" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/database/derby/Backup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/AutoFillHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/RecordEditorPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="569" column="33" lean-forward="false" selection-start-line="569" selection-start-column="33" selection-end-line="569" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/canreg/server/database/ImportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="55" column="75" lean-forward="false" selection-start-line="55" selection-start-column="75" selection-end-line="55" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nbproject/build-impl.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18377">
+          <caret line="1081" column="50" lean-forward="false" selection-start-line="1081" selection-start-column="50" selection-end-line="1081" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/web/CanReg5/launch.bat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp_es.properties">
+    <entry file="file://$PROJECT_DIR$/CanReg5-InnoSetup.iss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="408">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/resources/CanRegClientApp_fr.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/CanRegClientApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="103" column="41" lean-forward="true" selection-start-line="103" selection-start-column="41" selection-end-line="103" selection-end-column="41" />
-          <folding>
-            <element signature="e#26045#26046#0" expanded="true" />
-            <element signature="e#26081#26082#0" expanded="true" />
-            <element signature="e#26166#26167#0" expanded="true" />
-            <element signature="e#26192#26193#0" expanded="true" />
-            <element signature="e#26285#26286#0" expanded="true" />
-            <element signature="e#26318#26319#0" expanded="true" />
-            <element signature="e#35129#35130#0" expanded="true" />
-            <element signature="e#35160#35161#0" expanded="true" />
-            <element signature="e#37235#37236#0" expanded="true" />
-            <element signature="e#37289#37290#0" expanded="true" />
-            <element signature="e#37386#37387#0" expanded="true" />
-            <element signature="e#37441#37442#0" expanded="true" />
-            <element signature="e#61836#61837#0" expanded="true" />
-            <element signature="e#61884#61885#0" expanded="true" />
-            <element signature="e#68104#68105#0" expanded="true" />
-            <element signature="e#68160#68161#0" expanded="true" />
-            <element signature="e#69798#69799#0" expanded="true" />
-            <element signature="e#69847#69848#0" expanded="true" />
-            <element signature="e#71138#71139#0" expanded="true" />
-            <element signature="e#71196#71197#0" expanded="true" />
-            <element signature="e#71242#71243#0" expanded="true" />
-            <element signature="e#71293#71294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/CanReg5/canreg/client/resources/CanRegClientApp.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="ResourceBundle">
-        <state />
       </provider>
     </entry>
   </component>
@@ -623,6 +2386,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>embeddedTomcatSample:Web exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -634,7 +2398,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -669,7 +2433,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CanReg5</last-edited>
+          <last-edited>trunk-pcal</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -682,7 +2446,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -5,7 +5,7 @@
 #define MyAppPublisher "IARC"
 #define MyAppURL "http://www.iacr.com.fr"
 #define MyAppExeName "CanReg.exe"
-#define CanReg5Dir "C:\Users\ervikm\Documents\GitHub\CanReg5"
+#define CanReg5Dir "D:\GitHub\CanReg5"
 #include "inno-settings.txt"
 
 [Setup]
@@ -44,10 +44,13 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{
 
 [Files]
 Source: "{#CanReg5Dir}\CanReg.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "{#CanReg5Dir}\conf\*"; Excludes: "r-packages"; DestDir: "{app}\conf"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{#CanReg5Dir}\conf\*"; DestDir: "{app}\conf"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "{#CanReg5Dir}\demo\*"; DestDir: "{app}\demo"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "{#CanReg5Dir}\scripts\*"; DestDir: "{app}\scripts"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "{#CanReg5Dir}\dist\lib\*"; DestDir: "{app}\lib"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{#CanReg5Dir}\lib\*"; DestDir: "{app}\lib"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{#CanReg5Dir}\lib\web\*"; DestDir: "{app}\lib\web"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{#CanReg5Dir}\fonts\*"; DestDir: "{app}\fonts"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "{#CanReg5Dir}\web\*"; DestDir: "{app}\web"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "{#CanReg5Dir}\dist\CanReg.jar"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#CanReg5Dir}\dist\README.TXT"; DestDir: "{app}"; Flags: ignoreversion
 Source: "{#CanReg5Dir}\changelog.txt"; DestDir: "{app}"; Flags: ignoreversion

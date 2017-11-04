@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>انستیتو کانسر ایران</title> 
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="css/bootstrap.css" rel="stylesheet" />       
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/brows.css" rel="stylesheet" type="text/css" />    
+    <script src="js/jquery_v2.0.3.js"></script>
+    <script src="js/jquery_Migrate_v1.2.1.js"></script>    
+    <script src="js/jquery_blockUI_js.js"></script>    
+</head>
+<body dir="rtl">
+	<div class="contact-bottom">
+		<fieldset>
+		<legend>جستجو</legend>
+			<form action="cr5" id="patient_form" method="get" accept-charset="UTF-8">
+				<input name="action" type="hidden" value="brows">
+				<input name="RegNo" tabindex="1" type="number" placeholder="Registry Number" title="Registry Number" autofocus pattern="[0-9]*"/>			
+				<input name="FamN" tabindex="2" type="text" placeholder="Surname" title="Surname"/>						
+				<input name="FirstN" tabindex="2" type="text" placeholder="First names" title="First names"/>						
+				<input name="BirthD" tabindex="2" type="date" placeholder="Birth date" title="Birth date"/>		
+				<br/><br/>
+				<center><input type="submit" id="search-button" value="جستجو" style="width: 17%; margin-bottom: 3%;"></center>
+			</form>	
+			<form action="cr5" id="tumours_form" method="get" accept-charset="UTF-8" style="display:none">
+				<input name="action" type="hidden" value="view">
+				<input name="RegNo" type="hidden">
+			</form>		
+		</fieldset>	
+		<div class="table-responsive"></div>			
+	</div>
+	<div id="tumours_div" style="background-color:#fff; display:none">
+		  <div class="menu_vertical"> <section class="accordation_menu"></section> </div>
+		  <img src="images/back_arrow_BLACK.png" id="colse_tumours_div">
+	</div>	
+</body>
+<script>
+$("#search-button").click(function(event){
+	 event.preventDefault();	 	 
+	 $.blockUI({ message: waitimageUrl }); $(".blockOverlay").css({ "background-color": "#ccc" });
+	 $.get("cr5",$('#patient_form').serialize(),function(obj){	
+		 var cols = GetHeaders(obj); 
+        $('.table-responsive').html(CreateTable(obj, cols));		
+		$.unblockUI();		
+	 });	 	
+});
+
+$("#patient_table tbody tr").live("dblclick",function(data){
+	$("#tumours_form [name=RegNo]").val($(this).find(".REGNO").text());
+	$.get("cr5",$("#tumours_form").serialize(),function(data){
+		CreatePatientDetails(data);
+	});
+});
+
+$("#patient_table tbody tr").live("doubletap",function(data){
+	$("#tumours_form [name=RegNo]").val($(this).find(".REGNO").text());
+	$.get("cr5",$("#tumours_form").serialize(),function(data){
+		CreatePatientDetails(data);
+	});
+});
+
+$('#colse_tumours_div').click(function(){
+	$('#tumours_div').hide();
+	$(".contact-bottom").show();
+});
+
+
+function CreatePatientDetails(data){
+	$('.accordation_menu').empty();
+	for(var i=0;i<data.length;i++){
+		var div = $('<div></div>');
+		var content = $("<div id='a"+i+"' class='content1'></div>");
+		
+		div.append("<input id='label-"+i+"' name='patient' type='radio'/><label id='item"+i+"' for='label-"+i+"'>رکورد "+(i+1)+"<i class='icon-plus-sign i-right1'></i><i class='icon-minus-sign i-right2'></i></label>");
+		content.append(CreatePatientDetail_PersonalInfo(data[i]));
+		if(data[i].tumours!=undefined)
+			content.append(CreatePatientDetail_TomourInfo(data[i].tumours));
+		if(data[i].tumours.sources!=undefined)
+			content.append(CreatePatientDetail_SourceInfo(data[i].tumours.sources));
+		div.append(content);
+		$('.accordation_menu').append(div);
+	}	
+	$('#tumours_div').show();
+	$(".contact-bottom").hide();
+}
+function CreatePatientDetail_PersonalInfo(data){
+	var fieldset = $('<fieldset></fieldset>');
+	fieldset.append('<legend>اطلاعات فردی</legend>');
+	for (var key in data) {
+	  if(key!="tumours")
+		fieldset.append('<label>'+key +" : "+ data[key]+'</label>');
+	}
+return fieldset;
+}
+function CreatePatientDetail_TomourInfo(data){
+	var fieldset = $('<fieldset></fieldset>');
+		fieldset.append('<legend>اطلاعات تومور</legend>');
+		for (var key in data) {
+		 if(key!="sources")
+			fieldset.append('<label>'+key +" : "+ data[key]+'</label>');
+		}
+return fieldset;
+}
+function CreatePatientDetail_SourceInfo(data){
+	var fieldset = $('<fieldset></fieldset>');
+		fieldset.append('<legend>اطلاعات منبع</legend>');
+		for (var key in data) {
+			fieldset.append('<label>'+key +" : "+ data[key]+'</label>');
+		}
+return fieldset;
+}
+function CreateTable(obj, cols) {
+        var table = $("<table id='patient_table' class='table table-striped table-bordered table-hover table-condensed'></table>");
+        var thead = $('<thead></thead>');
+		var tr = $('<tr></tr>');
+				
+        for (var i = 0; i < cols.length; i++) {
+            tr.append('<th class='+cols[i]+'>' + cols[i] + '</th>');
+        }
+		thead.append(tr);	
+        table.append(thead);
+
+        for (var j = 0; j < obj.length; j++) {
+            var row = obj[j];
+            var tr = $("<tr></tr>");
+            for (var k = 0; k < cols.length; k++) {
+                var columnName = cols[k];
+                tr.append('<td class='+columnName+'>' + row[columnName] + '</td>');
+            }
+            table.append(tr);
+        }
+        return table;
+    }
+
+    function GetHeaders(obj) {
+        var cols = new Array();
+        var p = obj[0];
+        for (var key in p) {
+            //alert(' name=' + key + ' value=' + p[key]);
+            cols.push(key);
+        }
+        return cols;
+    }
+</script>
+</html>

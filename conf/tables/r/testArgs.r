@@ -4,7 +4,7 @@ remove(list = ls())
 
 	
 
-	source("C:/Documents and Settings/CinUser/My Documents/Anahita/Rcode/callAgeSpecificIncidenceRates.r")
+	source("C:/Documents and Settings/CinUser/My Documents/Anahita/Rcode/callAgeSpecificIncidenceRates.R")
 
 callAgeSpecificIncidenceRates (c(plotOnePage = FALSE, logr = FALSE, outFileGraphs = "C:/Documents and Settings/CinUser/My Documents/Anahita/outscript/test1", 
 outFileTable = "C:/Documents and Settings/CinUser/My Documents/Anahita/outscript/filename3.html",

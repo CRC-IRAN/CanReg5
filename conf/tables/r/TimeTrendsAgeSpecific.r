@@ -19,8 +19,7 @@ script.name <- sub(file.arg.name, "",
 script.basename <- dirname(script.name)
 
 ## LOADING DEPENDENCIES
-source(paste(sep="/", script.basename, "Rcan_core.r"))
-source(paste(sep="/", script.basename, "StartUp.r")) 
+source(paste(sep="/", script.basename, "StartUp.R")) 
 
 
 ############################### FORMATING DATA ############################### 
@@ -70,15 +69,13 @@ if(plotTables==FALSE){
             
             # Starting graph
             
-            if(fileType=="pdf"){CairoPDF(fileOut, width=7)}
+            if(fileType=="pdf"){pdf(fileOut, width=7)}
             
             # Generating Graph (on a new page) for each site
             for(site in unique(data$ICD10GROUP)){
                   
                   # Restricting dataset
                   dataOut <- data[which(data$SEX==sex & data$ICD10GROUP==site),]
-                  
-                  
                   
                   if(nrow(dataOut)>=1){
                         dataOut$SITE <- paste(dataOut$ICD10GROUPLABEL," (",dataOut$ICD10GROUP,")", sep="")
@@ -92,10 +89,8 @@ if(plotTables==FALSE){
             }
             
             dev.off()
-            cat(paste("-outFile",paste(out,"-Males.", fileType, sep = "" ),sep=":"))
+            cat(paste("-outFile",fileOut,sep=":"))
             cat("\n")
-            cat(paste("-outFile",paste(out,"-Females.", fileType, sep = "" ),sep=":"))
-            
       }
       
       
@@ -113,8 +108,6 @@ if(plotTables==FALSE){
       cat(paste("-outFile",fileOut,sep=":"))
       cat("\n")
 }
-      
-
 
 
 
