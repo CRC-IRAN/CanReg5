@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="web2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-embed-jasper-7.0.57.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-embed-core-7.0.57.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-embed-el-7.0.57.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-embed-logging-juli-7.0.57.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/web/tomcat-jsp-api-7.0.57.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -8,9 +8,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="d34ad2f7-610f-45be-a789-0cf9fc9ddd4c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/dist.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/r_packages.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/test_lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/web1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/web2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java" afterPath="$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CanReg5.iml" afterPath="$PROJECT_DIR$/CanReg5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appinfo.properties" afterPath="$PROJECT_DIR$/appinfo.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildnumber.properties" afterPath="$PROJECT_DIR$/buildnumber.properties" />
     </list>
     <ignored path="trunk-pcal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -188,58 +198,7 @@
     <favorites_list name="trunk-pcal" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RecordEditorTumour.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="1318" column="18" lean-forward="false" selection-start-line="1318" selection-start-column="18" selection-end-line="1318" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CanReg4MigrationInternalFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FixedWidthFileWriter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/client/analysis/FixedWidthFileWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="116" column="19" lean-forward="false" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FixedWidthFileWriterTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="49" column="121" lean-forward="false" selection-start-line="49" selection-start-column="121" selection-end-line="49" selection-end-column="121" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="export_format_naaccr1946.ver11_3.d02032011.tsv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/canreg/common/ruby/export_format_naaccr1946.ver11_3.d02032011.tsv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -323,7 +282,6 @@
         <option value="$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.java" />
         <option value="$PROJECT_DIR$/src/canreg/client/analysis/RTableBuilderGrouped.java" />
         <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorPatient.java" />
-        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java" />
         <option value="$PROJECT_DIR$/nbproject/project.properties" />
         <option value="$PROJECT_DIR$/manifest.mf" />
         <option value="$PROJECT_DIR$/src/canreg/common/StringUtils.java" />
@@ -336,6 +294,7 @@
         <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/AutoFillHelper.java" />
         <option value="$PROJECT_DIR$/src/canreg/server/database/derby/Backup.java" />
         <option value="$PROJECT_DIR$/CanReg5-InnoSetup.iss" />
+        <option value="$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java" />
         <option value="$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java" />
       </list>
     </option>
@@ -375,9 +334,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -385,46 +341,23 @@
               <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
               <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CanReg5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CanReg5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="canreg" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="OverrideImplement.combined" value="true" />
@@ -614,6 +547,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="trunk-pcal" />
+      <envs />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -891,19 +836,6 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="trunk-pcal" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
@@ -1063,6 +995,7 @@
       <workItem from="1509797567116" duration="1955000" />
       <workItem from="1509802770618" duration="159000" />
       <workItem from="1509869376070" duration="4157000" />
+      <workItem from="1509888065111" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="fix invalid morphology display in search dialogs">
       <created>1463748693548</created>
@@ -1142,7 +1075,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307940000" />
+    <option name="totallyTimeSpent" value="309522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1394" height="916" extended-state="6" />
@@ -1157,14 +1090,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261889" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21514243" sideWeight="0.47398844" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997987" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2045607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17624521" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20764618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1173,17 +1105,41 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21554054" sideWeight="0.5260116" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JFormDesigner Error Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261889" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885003" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2045607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20764618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31673053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26309067" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="JFormDesigner Form Converter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3614304" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21514243" sideWeight="0.47398844" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997987" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17624521" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21554054" sideWeight="0.5260116" order="3" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1301,52 +1257,16 @@
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java</url>
-          <line>1034</line>
-          <properties />
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/management/UserManagerInternalFrame.java</url>
-          <line>702</line>
-          <properties />
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/server/database/CanRegDAO.java</url>
           <line>1414</line>
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/management/UserManagerInternalFrame.java</url>
-          <line>690</line>
-          <properties />
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/management/InstallNewSystemInternalFrame.java</url>
-          <line>145</line>
-          <properties />
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/common/Tools.java</url>
           <line>614</line>
           <properties />
           <option name="timeStamp" value="102" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.java</url>
-          <line>124</line>
-          <properties />
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/VariableEditorPanel.java</url>
-          <line>133</line>
-          <properties />
-          <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/NCIDFieldVariableEditorPanel.java</url>
@@ -1361,12 +1281,6 @@
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/BrowseInternalFrame.java</url>
-          <line>993</line>
-          <properties />
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
           <line>970</line>
           <properties />
@@ -1377,12 +1291,6 @@
           <line>238</line>
           <properties />
           <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
-          <line>827</line>
-          <properties />
-          <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
@@ -1401,30 +1309,6 @@
           <line>818</line>
           <properties />
           <option name="timeStamp" value="198" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
-          <line>777</line>
-          <properties />
-          <option name="timeStamp" value="204" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
-          <line>814</line>
-          <properties />
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
-          <line>824</line>
-          <properties />
-          <option name="timeStamp" value="209" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportView.java</url>
-          <line>811</line>
-          <properties />
-          <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/client/dataentry/Import.java</url>
@@ -1467,18 +1351,6 @@
           <line>123</line>
           <properties />
           <option name="timeStamp" value="244" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java</url>
-          <line>316</line>
-          <properties />
-          <option name="timeStamp" value="246" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/canreg/client/gui/dataentry/ImportCompleteDictionaryInternalFrame.java</url>
-          <line>382</line>
-          <properties />
-          <option name="timeStamp" value="247" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java</url>
@@ -1770,27 +1642,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/canreg/common/qualitycontrol/PersonSearcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="64" column="17" lean-forward="false" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/common/qualitycontrol/DefaultPersonSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3570">
-          <caret line="237" column="0" lean-forward="false" selection-start-line="237" selection-start-column="0" selection-end-line="237" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/analysis/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4624">
-          <caret line="343" column="0" lean-forward="false" selection-start-line="343" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/management/PersonSearchVariablesPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -1799,13 +1650,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/classes/canreg/client/gui/management/resources/PersonSearchVariablesPanel.properties">
-      <provider editor-type-id="ResourceBundle">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
         </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/analysis/TableBuilderInternalFrame.java">
@@ -2012,13 +1863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/server/database/derby/Functions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/server/database/derby/Functions.java" />
     <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/components/FastFilterInternalFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12546">
@@ -2053,7 +1898,6 @@
           <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
           <folding>
             <element signature="e#8101#8190#0" expanded="false" />
-            <marker date="1509869350626" expanded="false" signature="51865:51926" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
           </folding>
         </state>
       </provider>
@@ -2105,7 +1949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2113,7 +1956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2121,22 +1963,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="1081" column="50" lean-forward="false" selection-start-line="1081" selection-start-column="50" selection-end-line="1081" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/common/ruby/export_format_naaccr1946.ver11_3.d02032011.tsv" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java">
+    <entry file="file://$PROJECT_DIR$/.hgignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="1318" column="18" lean-forward="false" selection-start-line="1318" selection-start-column="18" selection-end-line="1318" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.java">
+    <entry file="file://$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="75" column="44" lean-forward="false" selection-start-line="75" selection-start-column="44" selection-end-line="75" selection-end-column="44" />
+        <state relative-caret-position="175">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -2149,19 +1999,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/canreg/common/ruby/export_format_naaccr1946.ver11_3.d02032011.tsv">
+    <entry file="file://$PROJECT_DIR$/.hgtags">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/canreg/client/analysis/FixedWidthFileWriterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/management/CanReg4MigrationInternalFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="49" column="121" lean-forward="false" selection-start-line="49" selection-start-column="121" selection-end-line="49" selection-end-column="121" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="74" column="36" lean-forward="false" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <folding>
+            <marker date="1509888053646" expanded="false" signature="58932:58943" ph=" { " />
+            <marker date="1509888053646" expanded="false" signature="58958:58964" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canreg/client/gui/dataentry2/RecordEditorTumour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="1318" column="18" lean-forward="false" selection-start-line="1318" selection-start-column="18" selection-end-line="1318" selection-end-column="18" />
+          <folding>
+            <marker date="1509888052591" expanded="true" signature="3053:3092" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="5685:6452" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="6544:6646" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="6713:7231" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="6880:7125" ph="//..." />
+            <marker date="1509888052591" expanded="false" signature="7298:7309" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="7332:7338" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="7383:9767" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="9803:13598" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="10230:10265" ph="&lt;~&gt;" />
+            <marker date="1509888052591" expanded="true" signature="13623:14644" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="14805:16530" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="14815:14915" ph="//..." />
+            <marker date="1509888052591" expanded="true" signature="15456:15548" ph="//..." />
+            <marker date="1509888052591" expanded="true" signature="15829:15948" ph="//..." />
+            <marker date="1509888052591" expanded="false" signature="16639:16650" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="16670:16676" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="16730:17014" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="17056:17407" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="17442:17795" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="17847:18285" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="18340:18593" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="18632:18926" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="18980:19475" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="19512:19852" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="19929:20353" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="20418:21151" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="21254:21504" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="21513:21555" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="21617:22002" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="22071:22082" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="22097:22103" ph=" }" />
+            <marker date="1509888052591" expanded="false" signature="22189:22200" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="22229:22235" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="22272:22434" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="22499:22609" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="22678:22689" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="22718:22724" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="22825:22966" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="22983:23102" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="23209:23350" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="23424:26852" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="25636:25653" ph="&lt;~&gt;" />
+            <marker date="1509888052591" expanded="true" signature="26914:26983" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="27065:27076" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="27115:27121" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="27187:27738" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="27778:28378" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="28420:32509" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="32560:32866" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="32876:33115" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="33172:34933" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="34428:34631" ph="//..." />
+            <marker date="1509888052591" expanded="true" signature="34943:35181" ph="/**...*/" />
+            <marker date="1509888052591" expanded="false" signature="35235:35246" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="35289:35295" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="35305:35787" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="35873:36431" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="36445:36630" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="36668:36887" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="36897:37192" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="37270:37847" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="37865:38085" ph="/**...*/" />
+            <marker date="1509888052591" expanded="true" signature="38148:39055" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="38322:38470" ph="//..." />
+            <marker date="1509888052591" expanded="true" signature="39116:39219" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="39284:39295" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="39317:39323" ph=" }" />
+            <marker date="1509888052591" expanded="false" signature="39380:39391" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="39422:39428" ph=" }" />
+            <marker date="1509888052591" expanded="true" signature="39489:42446" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="42514:43075" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="43120:43226" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="43281:43292" ph=" { " />
+            <marker date="1509888052591" expanded="false" signature="43337:43343" ph=" }" />
+            <marker date="1509888052591" expanded="false" signature="43349:64462" ph="Generated Code" />
+            <marker date="1509888052591" expanded="true" signature="43473:64421" ph="{...}" />
+            <marker date="1509888052591" expanded="false" signature="50858:50969" ph="actionPerformed(evt) → {" />
+            <marker date="1509888052591" expanded="false" signature="51032:51047" ph="}" />
+            <marker date="1509888052591" expanded="false" signature="52783:52894" ph="actionPerformed(evt) → {" />
+            <marker date="1509888052591" expanded="false" signature="52961:52976" ph="}" />
+            <marker date="1509888052591" expanded="false" signature="61304:61408" ph="focusGained(evt) → {" />
+            <marker date="1509888052591" expanded="false" signature="61472:61487" ph="}" />
+            <marker date="1509888052591" expanded="true" signature="64545:64761" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="64892:65033" ph="{...}" />
+            <marker date="1509888052591" expanded="true" signature="65169:65730" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2183,7 +2131,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2218,7 +2166,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>trunk-pcal</last-edited>
+          <last-edited>CanReg5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

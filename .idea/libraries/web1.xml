@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="web1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/web/CanReg5-Setup.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/web/CanReg5-R-packages.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/web/CanReg5-with-R-Packages-Setup.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/web/CanReg5-R-Packages-Setup.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/web/CanReg5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

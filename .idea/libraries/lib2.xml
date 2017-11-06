@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/batik-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcalendar-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/icu4j-57_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/beansbinding-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itext-xtra-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itextpdf-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/looks-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/batik-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/batik-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rssutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/batik-awt-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/paradoxdriver12-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencsv-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/forms-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/juniversalchardet-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/imgscalr-lib-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/derbytools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bsaf-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/batik-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/batik-svggen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/glazedlists-1.8.0_java15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.commons.io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/glazedlists_java15-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

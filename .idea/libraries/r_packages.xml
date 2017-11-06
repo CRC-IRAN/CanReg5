@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="r-packages">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/r-packages/gplots_2.14.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/plyr_1.8.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/gtools_3.4.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/Rcpp_0.12.7.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/scales_0.4.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/gdata_2.13.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/gtable_0.1.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/bitops_1.0-6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/ggplot2_0.9.3.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/stringr_0.6.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/dichromat_2.0-0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/labeling_0.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/munsell_0.4.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/proto_0.3-10.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/caTools_1.17.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/digest_0.6.4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/reshape2_1.2.2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/colorspace_1.2-4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/r-packages/RColorBrewer_1.0-5.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
